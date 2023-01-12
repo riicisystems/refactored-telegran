@@ -1,7 +1,8 @@
 <html>
   <head>
-  <title><teste</title>
+  <title>teste</title>
   </head>
   <body>
+	<p> Mudança da Branch 1</p>
   </body>
 </html>
